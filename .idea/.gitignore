@@ -1,3 +1,12 @@
-# Default ignored files
-/shelf/
-/workspace.xml
+.idea
+*.iml
+out
+gen
+*.log
+*.jrnl
+target
+*build
+.gradle
+compiler.xml
+.DS_Store
+.flattened-pom.xml
