@@ -4,7 +4,40 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="08b8abae-2485-4e02-8193-50372344a1be" name="Changes" comment="" />
+    <list default="true" id="08b8abae-2485-4e02-8193-50372344a1be" name="Changes" comment="600 tasks">
+      <change afterPath="$PROJECT_DIR$/src/java/com/ivanparanin/chapter9/Ex9_10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/com/ivanparanin/chapter9/Ex9_11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/com/ivanparanin/chapter9/Ex9_12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/com/ivanparanin/chapter9/Ex9_13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/com/ivanparanin/chapter9/Ex9_14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/com/ivanparanin/chapter9/Ex9_15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/com/ivanparanin/chapter9/Ex9_16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/com/ivanparanin/chapter9/Ex9_17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/com/ivanparanin/chapter9/Ex9_18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/com/ivanparanin/chapter9/Ex9_19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/com/ivanparanin/chapter9/Ex9_20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/com/ivanparanin/chapter9/Ex9_21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/com/ivanparanin/chapter9/Ex9_22.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/com/ivanparanin/chapter9/Ex9_23.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/com/ivanparanin/chapter9/Ex9_24.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/com/ivanparanin/chapter9/Ex9_25.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/com/ivanparanin/chapter9/Ex9_26.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/com/ivanparanin/chapter9/Ex9_27.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/com/ivanparanin/chapter9/Ex9_28.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/com/ivanparanin/chapter9/Ex9_29.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/com/ivanparanin/chapter9/Ex9_30.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/com/ivanparanin/chapter9/Ex9_31.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/com/ivanparanin/chapter9/Ex9_32.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/com/ivanparanin/chapter9/Ex9_33.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/com/ivanparanin/chapter9/Ex9_34.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/com/ivanparanin/chapter9/Ex9_35.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/com/ivanparanin/chapter9/Ex9_36.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/com/ivanparanin/chapter9/Ex9_37.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/com/ivanparanin/chapter9/Ex9_7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/com/ivanparanin/chapter9/Ex9_8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/com/ivanparanin/chapter9/Ex9_9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,10 +50,16 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2Mx4FqEUUxA5EyAIfub2R52OMd7" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -41,13 +80,13 @@
       <recent name="$PROJECT_DIR$/java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Ex8_31">
-    <configuration name="Ex8_23" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ivanparanin.chapter8.Ex8_23" />
+  <component name="RunManager" selected="Application.Ex9_37">
+    <configuration name="Ex9_33" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ivanparanin.chapter9.Ex9_33" />
       <module name="Java_600_zadach" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ivanparanin.chapter8.*" />
+          <option name="PATTERN" value="com.ivanparanin.chapter9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -55,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex8_27" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ivanparanin.chapter8.Ex8_27" />
+    <configuration name="Ex9_34" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ivanparanin.chapter9.Ex9_34" />
       <module name="Java_600_zadach" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ivanparanin.chapter8.*" />
+          <option name="PATTERN" value="com.ivanparanin.chapter9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex8_28" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ivanparanin.chapter8.Ex8_28" />
+    <configuration name="Ex9_35" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ivanparanin.chapter9.Ex9_35" />
       <module name="Java_600_zadach" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ivanparanin.chapter8.*" />
+          <option name="PATTERN" value="com.ivanparanin.chapter9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,12 +120,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex8_30" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ivanparanin.chapter8.Ex8_30" />
+    <configuration name="Ex9_36" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ivanparanin.chapter9.Ex9_36" />
       <module name="Java_600_zadach" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ivanparanin.chapter8.*" />
+          <option name="PATTERN" value="com.ivanparanin.chapter9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +133,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex8_31" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ivanparanin.chapter8.Ex8_31" />
+    <configuration name="Ex9_37" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ivanparanin.chapter9.Ex9_37" />
       <module name="Java_600_zadach" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ivanparanin.chapter8.*" />
+          <option name="PATTERN" value="com.ivanparanin.chapter9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,11 +148,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Ex8_31" />
-        <item itemvalue="Application.Ex8_30" />
-        <item itemvalue="Application.Ex8_28" />
-        <item itemvalue="Application.Ex8_27" />
-        <item itemvalue="Application.Ex8_23" />
+        <item itemvalue="Application.Ex9_37" />
+        <item itemvalue="Application.Ex9_36" />
+        <item itemvalue="Application.Ex9_35" />
+        <item itemvalue="Application.Ex9_34" />
+        <item itemvalue="Application.Ex9_33" />
       </list>
     </recent_temporary>
   </component>
@@ -126,6 +165,25 @@
       <option name="presentableId" value="Default" />
       <updated>1678695798608</updated>
     </task>
+    <task id="LOCAL-00001" summary="600 tasks">
+      <created>1681794904898</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1681794904898</updated>
+    </task>
+    <task id="LOCAL-00002" summary="600 tasks">
+      <created>1681795242277</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1681795242277</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="600 tasks" />
+    <option name="LAST_COMMIT_MESSAGE" value="600 tasks" />
   </component>
 </project>
