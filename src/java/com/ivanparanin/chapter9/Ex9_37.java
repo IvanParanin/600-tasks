@@ -9,7 +9,7 @@ public class Ex9_37 {
         name2 = reader.next();
         sName2 = reader.next();
         if((name1.equals(name2) && (sName1.equals(sName2)))) {
-            System.out.println("И тезки и однофамильцы");
+            System.out.println("И тезки и однофамильцы одновременно");
         } else {
             if (name1.equals(name2)) {
                 System.out.println("Тезки");
