@@ -5,71 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="08b8abae-2485-4e02-8193-50372344a1be" name="Changes" comment="600 tasks">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Java_600_zadach/com/ivanparanin/chapter8/Ex8_32.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Java_600_zadach/com/ivanparanin/chapter9/Ex9_10.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Java_600_zadach/com/ivanparanin/chapter9/Ex9_11.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Java_600_zadach/com/ivanparanin/chapter9/Ex9_12.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Java_600_zadach/com/ivanparanin/chapter9/Ex9_13.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Java_600_zadach/com/ivanparanin/chapter9/Ex9_14.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Java_600_zadach/com/ivanparanin/chapter9/Ex9_15.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Java_600_zadach/com/ivanparanin/chapter9/Ex9_16.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Java_600_zadach/com/ivanparanin/chapter9/Ex9_17.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Java_600_zadach/com/ivanparanin/chapter9/Ex9_18.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Java_600_zadach/com/ivanparanin/chapter9/Ex9_19.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Java_600_zadach/com/ivanparanin/chapter9/Ex9_20.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Java_600_zadach/com/ivanparanin/chapter9/Ex9_21.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Java_600_zadach/com/ivanparanin/chapter9/Ex9_22.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Java_600_zadach/com/ivanparanin/chapter9/Ex9_23.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Java_600_zadach/com/ivanparanin/chapter9/Ex9_24.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Java_600_zadach/com/ivanparanin/chapter9/Ex9_25.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Java_600_zadach/com/ivanparanin/chapter9/Ex9_26.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Java_600_zadach/com/ivanparanin/chapter9/Ex9_27.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Java_600_zadach/com/ivanparanin/chapter9/Ex9_28.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Java_600_zadach/com/ivanparanin/chapter9/Ex9_29.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Java_600_zadach/com/ivanparanin/chapter9/Ex9_30.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Java_600_zadach/com/ivanparanin/chapter9/Ex9_31.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Java_600_zadach/com/ivanparanin/chapter9/Ex9_32.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Java_600_zadach/com/ivanparanin/chapter9/Ex9_33.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Java_600_zadach/com/ivanparanin/chapter9/Ex9_34.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Java_600_zadach/com/ivanparanin/chapter9/Ex9_35.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Java_600_zadach/com/ivanparanin/chapter9/Ex9_36.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Java_600_zadach/com/ivanparanin/chapter9/Ex9_37.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Java_600_zadach/com/ivanparanin/chapter9/Ex9_7.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Java_600_zadach/com/ivanparanin/chapter9/Ex9_8.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Java_600_zadach/com/ivanparanin/chapter9/Ex9_9.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/com/ivanparanin/chapter9/Ex9_10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/com/ivanparanin/chapter9/Ex9_11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/com/ivanparanin/chapter9/Ex9_12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/com/ivanparanin/chapter9/Ex9_13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/com/ivanparanin/chapter9/Ex9_14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/com/ivanparanin/chapter9/Ex9_15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/com/ivanparanin/chapter9/Ex9_16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/com/ivanparanin/chapter9/Ex9_17.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/com/ivanparanin/chapter9/Ex9_18.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/com/ivanparanin/chapter9/Ex9_19.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/com/ivanparanin/chapter9/Ex9_20.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/com/ivanparanin/chapter9/Ex9_21.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/com/ivanparanin/chapter9/Ex9_22.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/com/ivanparanin/chapter9/Ex9_23.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/com/ivanparanin/chapter9/Ex9_24.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/com/ivanparanin/chapter9/Ex9_25.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/com/ivanparanin/chapter9/Ex9_26.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/com/ivanparanin/chapter9/Ex9_27.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/com/ivanparanin/chapter9/Ex9_28.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/com/ivanparanin/chapter9/Ex9_29.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/com/ivanparanin/chapter9/Ex9_30.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/com/ivanparanin/chapter9/Ex9_31.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/com/ivanparanin/chapter9/Ex9_32.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/com/ivanparanin/chapter9/Ex9_33.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/com/ivanparanin/chapter9/Ex9_34.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/com/ivanparanin/chapter9/Ex9_35.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/com/ivanparanin/chapter9/Ex9_36.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/com/ivanparanin/chapter9/Ex9_37.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/com/ivanparanin/chapter9/Ex9_7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/com/ivanparanin/chapter9/Ex9_8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/com/ivanparanin/chapter9/Ex9_9.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -212,8 +149,26 @@
       <option name="project" value="LOCAL" />
       <updated>1681795242277</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="600 tasks">
+      <created>1682482468195</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1682482468195</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="600 tasks" />
