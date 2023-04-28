@@ -7,7 +7,6 @@ public class Ex10_13GameOfDice {
         int player_1, player_2, a = 1, winner = 0, winner2 = 0;
         String player1, player2, start = "Бросок";
         System.out.println("Игра началась.");
-       // do {
             do {
                 System.out.println("Раунд: " + a);
                 player1 = reader.next();
