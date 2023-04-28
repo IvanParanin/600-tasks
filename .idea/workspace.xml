@@ -5,9 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="08b8abae-2485-4e02-8193-50372344a1be" name="Changes" comment="edit">
-      <change afterPath="$PROJECT_DIR$/gitignore." afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/com/ivanparanin/chapter10/Ex10_10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/com/ivanparanin/chapter10/Ex10_11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/com/ivanparanin/chapter10/Ex10_12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/com/ivanparanin/chapter10/Ex10_13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/com/ivanparanin/chapter10/Ex10_9.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_600_zadach/com/ivanparanin/chapter9/Ex9_37.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_600_zadach/com/ivanparanin/chapter9/Ex9_37.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/com/ivanparanin/chapter10/Ex10_8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/com/ivanparanin/chapter10/Ex10_8.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,13 +57,13 @@
       <recent name="$PROJECT_DIR$/java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Ex9_37">
-    <configuration name="Ex9_33" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ivanparanin.chapter9.Ex9_33" />
+  <component name="RunManager" selected="Application.Ex10_13">
+    <configuration name="Ex10_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ivanparanin.chapter10.Ex10_10" />
       <module name="Java_600_zadach" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ivanparanin.chapter9.*" />
+          <option name="PATTERN" value="com.ivanparanin.chapter10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -66,12 +71,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex9_34" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ivanparanin.chapter9.Ex9_34" />
+    <configuration name="Ex10_12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ivanparanin.chapter10.Ex10_12" />
       <module name="Java_600_zadach" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ivanparanin.chapter9.*" />
+          <option name="PATTERN" value="com.ivanparanin.chapter10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex9_35" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ivanparanin.chapter9.Ex9_35" />
+    <configuration name="Ex10_13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ivanparanin.chapter10.Ex10_13" />
       <module name="Java_600_zadach" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ivanparanin.chapter9.*" />
+          <option name="PATTERN" value="com.ivanparanin.chapter10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex9_36" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ivanparanin.chapter9.Ex9_36" />
+    <configuration name="Ex10_7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ivanparanin.chapter10.Ex10_7" />
       <module name="Java_600_zadach" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ivanparanin.chapter9.*" />
+          <option name="PATTERN" value="com.ivanparanin.chapter10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex9_37" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ivanparanin.chapter9.Ex9_37" />
+    <configuration name="Ex10_8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ivanparanin.chapter10.Ex10_8" />
       <module name="Java_600_zadach" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ivanparanin.chapter9.*" />
+          <option name="PATTERN" value="com.ivanparanin.chapter10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Ex9_37" />
-        <item itemvalue="Application.Ex9_36" />
-        <item itemvalue="Application.Ex9_35" />
-        <item itemvalue="Application.Ex9_34" />
-        <item itemvalue="Application.Ex9_33" />
+        <item itemvalue="Application.Ex10_13" />
+        <item itemvalue="Application.Ex10_12" />
+        <item itemvalue="Application.Ex10_10" />
+        <item itemvalue="Application.Ex10_8" />
+        <item itemvalue="Application.Ex10_7" />
       </list>
     </recent_temporary>
   </component>
