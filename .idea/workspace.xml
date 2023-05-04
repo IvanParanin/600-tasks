@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="08b8abae-2485-4e02-8193-50372344a1be" name="Changes" comment="edit">
-      <change afterPath="$PROJECT_DIR$/src/java/com/ivanparanin/chapter10/Ex10_17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/com/ivanparanin/chapter10/Ex10_19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/com/ivanparanin/chapter10/Ex10_20.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/com/ivanparanin/chapter10/Ex10_18.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/com/ivanparanin/chapter10/Ex10_18.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,46 +54,7 @@
       <recent name="$PROJECT_DIR$/java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Ex10_17">
-    <configuration name="Ex10_13GameOfDice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ivanparanin.chapter10.Ex10_13GameOfDice" />
-      <module name="Java_600_zadach" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.ivanparanin.chapter10.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Ex10_14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ivanparanin.chapter10.Ex10_14" />
-      <module name="Java_600_zadach" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.ivanparanin.chapter10.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Ex10_15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ivanparanin.chapter10.Ex10_15" />
-      <module name="Java_600_zadach" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.ivanparanin.chapter10.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Ex10_20">
     <configuration name="Ex10_16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.ivanparanin.chapter10.Ex10_16" />
       <module name="Java_600_zadach" />
@@ -118,13 +81,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Ex10_18" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ivanparanin.chapter10.Ex10_18" />
+      <module name="Java_600_zadach" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ivanparanin.chapter10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex10_19" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ivanparanin.chapter10.Ex10_19" />
+      <module name="Java_600_zadach" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ivanparanin.chapter10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex10_20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ivanparanin.chapter10.Ex10_20" />
+      <module name="Java_600_zadach" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ivanparanin.chapter10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ex10_20" />
+        <item itemvalue="Application.Ex10_19" />
+        <item itemvalue="Application.Ex10_18" />
         <item itemvalue="Application.Ex10_17" />
         <item itemvalue="Application.Ex10_16" />
-        <item itemvalue="Application.Ex10_14" />
-        <item itemvalue="Application.Ex10_15" />
-        <item itemvalue="Application.Ex10_13GameOfDice" />
       </list>
     </recent_temporary>
   </component>
