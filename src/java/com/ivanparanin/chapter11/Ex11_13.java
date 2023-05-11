@@ -2,11 +2,10 @@ package com.ivanparanin.chapter11;
 
 public class Ex11_13 {
     public static void main(String[] args) {
-        int b = 100, c = 999;
-        for( ; b <= c; b++) {
-            int a = b + (int) (Math.random() * (c - b) + 1);
-
-            System.out.println(a); // TODO доделать
+        System.out.println("Начало");
+        for(int i = 999; i >= 100; i--)
+            System.out.print(i + " ");
+        System.out.print("\nКонец");
         }
     }
-}
+
