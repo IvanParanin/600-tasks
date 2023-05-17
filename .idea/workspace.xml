@@ -5,12 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="08b8abae-2485-4e02-8193-50372344a1be" name="Changes" comment="edit">
-      <change afterPath="$PROJECT_DIR$/src/java/com/ivanparanin/chapter11/Ex11_37.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/com/ivanparanin/chapter11/Ex11_38.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/com/ivanparanin/chapter11/Ex11_39.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/com/ivanparanin/chapter11/Ex11_40.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/com/ivanparanin/chapter11/Ex11_41.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/com/ivanparanin/chapter11/Ex11_42.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/com/ivanparanin/chapter11/Ex11_43.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/com/ivanparanin/chapter11/Ex11_44.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/com/ivanparanin/chapter11/Ex11_45.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/com/ivanparanin/chapter11/Ex11_46.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/com/ivanparanin/chapter11/Ex11_47.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/com/ivanparanin/chapter11/Ex11_48.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/com/ivanparanin/chapter11/Ex11_49.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/com/ivanparanin/chapter11/Ex11_50.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,9 +59,9 @@
       <recent name="$PROJECT_DIR$/java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Ex11_42">
-    <configuration name="Ex11_38" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ivanparanin.chapter11.Ex11_38" />
+  <component name="RunManager" selected="Application.Ex11_50">
+    <configuration name="Ex11_46" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ivanparanin.chapter11.Ex11_46" />
       <module name="Java_600_zadach" />
       <extension name="coverage">
         <pattern>
@@ -71,8 +73,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex11_39" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ivanparanin.chapter11.Ex11_39" />
+    <configuration name="Ex11_47" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ivanparanin.chapter11.Ex11_47" />
       <module name="Java_600_zadach" />
       <extension name="coverage">
         <pattern>
@@ -84,8 +86,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex11_40" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ivanparanin.chapter11.Ex11_40" />
+    <configuration name="Ex11_48" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ivanparanin.chapter11.Ex11_48" />
       <module name="Java_600_zadach" />
       <extension name="coverage">
         <pattern>
@@ -97,8 +99,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex11_41" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ivanparanin.chapter11.Ex11_41" />
+    <configuration name="Ex11_49" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ivanparanin.chapter11.Ex11_49" />
       <module name="Java_600_zadach" />
       <extension name="coverage">
         <pattern>
@@ -110,8 +112,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex11_42" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ivanparanin.chapter11.Ex11_42" />
+    <configuration name="Ex11_50" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ivanparanin.chapter11.Ex11_50" />
       <module name="Java_600_zadach" />
       <extension name="coverage">
         <pattern>
@@ -125,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Ex11_42" />
-        <item itemvalue="Application.Ex11_41" />
-        <item itemvalue="Application.Ex11_40" />
-        <item itemvalue="Application.Ex11_39" />
-        <item itemvalue="Application.Ex11_38" />
+        <item itemvalue="Application.Ex11_50" />
+        <item itemvalue="Application.Ex11_49" />
+        <item itemvalue="Application.Ex11_48" />
+        <item itemvalue="Application.Ex11_47" />
+        <item itemvalue="Application.Ex11_46" />
       </list>
     </recent_temporary>
   </component>
