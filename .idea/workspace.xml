@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="08b8abae-2485-4e02-8193-50372344a1be" name="Changes" comment="edit">
-      <change beforePath="$PROJECT_DIR$/src/java/com/ivanparanin/chapter12/Ex12_3__.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/com/ivanparanin/chapter12/Ex12_3.java" afterDir="false" />
+    <list default="true" id="08b8abae-2485-4e02-8193-50372344a1be" name="Changes" comment="new task">
+      <change afterPath="$PROJECT_DIR$/src/java/com/ivanparanin/chapter12/Ex12_12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +52,7 @@
       <recent name="$PROJECT_DIR$/java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Ex12_11">
+  <component name="RunManager" selected="Application.Ex12_12">
     <configuration name="Ex12_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.ivanparanin.chapter12.Ex12_10" />
       <module name="Java_600_zadach" />
@@ -78,8 +79,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex12_7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ivanparanin.chapter12.Ex12_7" />
+    <configuration name="Ex12_12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ivanparanin.chapter12.Ex12_12" />
       <module name="Java_600_zadach" />
       <extension name="coverage">
         <pattern>
@@ -119,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ex12_12" />
         <item itemvalue="Application.Ex12_11" />
         <item itemvalue="Application.Ex12_10" />
         <item itemvalue="Application.Ex12_9" />
         <item itemvalue="Application.Ex12_8" />
-        <item itemvalue="Application.Ex12_7" />
       </list>
     </recent_temporary>
   </component>
@@ -178,7 +179,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682655303597</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="new task">
+      <created>1684498235707</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1684498235707</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -195,6 +203,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="600 tasks" />
     <MESSAGE value="edit" />
-    <option name="LAST_COMMIT_MESSAGE" value="edit" />
+    <MESSAGE value="new task" />
+    <option name="LAST_COMMIT_MESSAGE" value="new task" />
   </component>
 </project>
