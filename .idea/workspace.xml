@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="08b8abae-2485-4e02-8193-50372344a1be" name="Changes" comment="new task">
-      <change afterPath="$PROJECT_DIR$/src/java/com/ivanparanin/chapter12/Ex12_13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/com/ivanparanin/chapter12/Ex12_15.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,7 +52,7 @@
       <recent name="$PROJECT_DIR$/java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Ex12_13">
+  <component name="RunManager" selected="Application.Ex12_15">
     <configuration name="Ex12_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.ivanparanin.chapter12.Ex12_10" />
       <module name="Java_600_zadach" />
@@ -92,8 +92,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex12_13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ivanparanin.chapter12.Ex12_13" />
+    <configuration name="Ex12_14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ivanparanin.chapter12.Ex12_14" />
       <module name="Java_600_zadach" />
       <extension name="coverage">
         <pattern>
@@ -105,8 +105,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex12_9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ivanparanin.chapter12.Ex12_9" />
+    <configuration name="Ex12_15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ivanparanin.chapter12.Ex12_15" />
       <module name="Java_600_zadach" />
       <extension name="coverage">
         <pattern>
@@ -120,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Ex12_13" />
+        <item itemvalue="Application.Ex12_15" />
+        <item itemvalue="Application.Ex12_14" />
         <item itemvalue="Application.Ex12_12" />
         <item itemvalue="Application.Ex12_11" />
         <item itemvalue="Application.Ex12_10" />
-        <item itemvalue="Application.Ex12_9" />
       </list>
     </recent_temporary>
   </component>
