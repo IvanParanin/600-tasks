@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="08b8abae-2485-4e02-8193-50372344a1be" name="Changes" comment="new task">
-      <change afterPath="$PROJECT_DIR$/src/java/com/ivanparanin/chapter13/Ex13_7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/com/ivanparanin/chapter13/Ex13_8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/com/ivanparanin/chapter13/Ex13_9.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,20 +51,7 @@
       <recent name="$PROJECT_DIR$/java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Ex13_8">
-    <configuration name="Ex13_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ivanparanin.chapter13.Ex13_4" />
-      <module name="Java_600_zadach" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.ivanparanin.chapter13.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Ex13_9">
     <configuration name="Ex13_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.ivanparanin.chapter13.Ex13_5" />
       <module name="Java_600_zadach" />
@@ -119,13 +104,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Ex13_9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ivanparanin.chapter13.Ex13_9" />
+      <module name="Java_600_zadach" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ivanparanin.chapter13.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ex13_9" />
         <item itemvalue="Application.Ex13_8" />
         <item itemvalue="Application.Ex13_7" />
         <item itemvalue="Application.Ex13_6" />
         <item itemvalue="Application.Ex13_5" />
-        <item itemvalue="Application.Ex13_4" />
       </list>
     </recent_temporary>
   </component>
