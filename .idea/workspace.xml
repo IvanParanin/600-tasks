@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="08b8abae-2485-4e02-8193-50372344a1be" name="Changes" comment="new task" />
+    <list default="true" id="08b8abae-2485-4e02-8193-50372344a1be" name="Changes" comment="new task">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/com/ivanparanin/chapter13/Ex13_14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/com/ivanparanin/chapter13/Ex13_15.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,7 +52,7 @@
       <recent name="$PROJECT_DIR$/java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Ex13_12">
+  <component name="RunManager" selected="Application.Ex13_15">
     <configuration name="Ex13_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.ivanparanin.chapter13.Ex13_10" />
       <module name="Java_600_zadach" />
@@ -89,8 +92,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex13_8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ivanparanin.chapter13.Ex13_8" />
+    <configuration name="Ex13_15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ivanparanin.chapter13.Ex13_15" />
       <module name="Java_600_zadach" />
       <extension name="coverage">
         <pattern>
@@ -117,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ex13_15" />
         <item itemvalue="Application.Ex13_12" />
         <item itemvalue="Application.Ex13_11" />
         <item itemvalue="Application.Ex13_10" />
         <item itemvalue="Application.Ex13_9" />
-        <item itemvalue="Application.Ex13_8" />
       </list>
     </recent_temporary>
   </component>
