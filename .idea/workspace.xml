@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="08b8abae-2485-4e02-8193-50372344a1be" name="Changes" comment="new task">
-      <change afterPath="$PROJECT_DIR$/src/java/com/ivanparanin/chapter13/Ex13_11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/com/ivanparanin/chapter13/Ex13_12.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,7 +52,7 @@
       <recent name="$PROJECT_DIR$/java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Ex13_11">
+  <component name="RunManager" selected="Application.Ex13_12">
     <configuration name="Ex13_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.ivanparanin.chapter13.Ex13_10" />
       <module name="Java_600_zadach" />
@@ -79,8 +79,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex13_7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ivanparanin.chapter13.Ex13_7" />
+    <configuration name="Ex13_12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ivanparanin.chapter13.Ex13_12" />
       <module name="Java_600_zadach" />
       <extension name="coverage">
         <pattern>
@@ -120,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ex13_12" />
         <item itemvalue="Application.Ex13_11" />
         <item itemvalue="Application.Ex13_10" />
         <item itemvalue="Application.Ex13_9" />
         <item itemvalue="Application.Ex13_8" />
-        <item itemvalue="Application.Ex13_7" />
       </list>
     </recent_temporary>
   </component>
